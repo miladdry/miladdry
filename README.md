@@ -22,11 +22,6 @@ I'm a **DevOps Engineer** with 5+ years of experience in building scalable, clou
 ## ⚡ About Me
 Focused on building reliable, secure, and scalable systems, with a continuous drive for learning and improvement.
 
-## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=miladdry&theme=github)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miladdry&show_icons=true&theme=github_dark)
-
 ## 🌐 Connect
 - [GitHub](https://github.com/miladdry)
 - [LinkedIn](https://www.linkedin.com/in/milad-daryanavard-817b981b7)
