@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Kubernetes+Enthusiast;Automation+Lover;Cloud-Native+Advocate" alt="Typing SVG" />
 </p>
 
-I'm a **DevOps Engineer** with 5+ years of experience in building scalable, cloud-native infrastructures and automating deployments.
+I'm a **DevOps Engineer** with 5+ years of hands-on experience building scalable, cloud-native infrastructures and automating deployments.
 
 - 💼 **Industry**: Telecom
 - 🎓 **Education**: B.S. in Computer Engineering
@@ -26,10 +26,13 @@ I'm a **DevOps Engineer** with 5+ years of experience in building scalable, clou
 ## ⚡ About Me
 Focused on building reliable, secure, and scalable systems, with a continuous drive for learning and improvement.
 
-## 🌆 GitHub Skyline
-<!-- Replace this link with your skyline GIF or MP4 once you generate and upload it -->
+## ✨ Featured
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/raw/main/skyline.gif" alt="GitHub Skyline" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miladdry&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## 🌐 Connect
