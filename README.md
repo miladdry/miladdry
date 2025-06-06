@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Milad Daryanavard
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Kubernetes+Enthusiast;Automation+Lover;Cloud-Native+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Kubernetes+Enthusiast;Automation+Expert;Cloud-Native+Advocate" alt="Typing SVG" />
 </p>
 
 I'm a **DevOps Engineer** with 5+ years of hands-on experience building scalable, cloud-native infrastructures and automating deployments.
