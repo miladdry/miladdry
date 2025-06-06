@@ -1,26 +1,32 @@
-# 👋 Hello! I'm Milad
+# 👋 Hi! I'm Milad Daryanavard
 
-I'm a **DevOps Engineer** interested in Kubernetes, CI/CD, and automation. 
+I'm a **DevOps Engineer** with 5+ years of experience in building scalable, cloud-native infrastructures and automating deployments.
 
-- 💼 I currently work in the **telecom industry**.
-- 🎓 I'm studying **Computer Engineering** at **Azad University**.
-- 📫 How to reach me: midaryanavard@gmail.com
-- ⚡ Fun fact: I enjoy gaming, especially **Dota 2**, **Sekiro**, and **Euro Truck Simulator**!
+- 💼 **Industry**: Telecom
+- 🎓 **Education**: B.S. in Computer Engineering
+- 📧 **Email**: [midaryanavard@gmail.com](mailto:midaryanavard@gmail.com)
+- 🌍 **Location**: Tehran, Iran
 
-## 🌱 What I'm Learning
-- 🚀 Building CI/CD pipelines for Kubernetes applications.
-- 🛠️ Exploring **Camunda** for process automation.
+## 🛠️ Skills & Technologies
+- **Languages**: Python, Bash, Golang
+- **DevOps & Infrastructure**: Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Helm, ArgoCD
+- **Monitoring & Observability**: Prometheus, Grafana, Loki, ELK/EFK Stack
+- **Databases & Messaging**: PostgreSQL, Kafka, Redis, Elasticsearch, MongoDB
 
-## 🧰 Technologies & Tools
-- **Languages**: Python, Bash, JavaScript
-- **DevOps Tools**: Docker, Kubernetes, Jenkins
-- **Cloud**: AWS, GCP
+## 🚀 Interests
+- Kubernetes orchestration & GitOps
+- Infrastructure as Code (IaC) & automation
+- Observability & monitoring solutions
+- High availability (HA) and disaster recovery (DR) architectures
 
-## 🎮 Games I Enjoy
-- Dota 2 (Safe Lane - Viper, Razor, Phantom Assassin)
-- Sekiro: Shadows Die Twice
-- Ace Combat 7
+## ⚡ About Me
+Focused on building reliable, secure, and scalable systems, with a continuous drive for learning and improvement.
 
-## 🌐 Connect with Me
-- [GitHub](https://github.com/milad123)
-- [LinkedIn](https://linkedin.com/in/milad123)
+## 📊 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=miladdry&theme=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miladdry&show_icons=true&theme=github_dark)
+
+## 🌐 Connect
+- [GitHub](https://github.com/miladdry)
+- [LinkedIn](https://www.linkedin.com/in/milad-daryanavard-817b981b7)
